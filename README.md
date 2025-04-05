@@ -1,22 +1,35 @@
+<p align="center">
+  <img src="README.png" alt="Axel's banner" style="max-width: 100%;" />
+</p>
+
 ## Hi there 👋
 
-I am a student of Cross-Platform Application Development at BirtLH in the Basque Country, and in my spare time, I am learning to develop iOS applications. Technology has always been my passion, and for over four years, I worked at Apple, helping people with software issues and teaching them how to use applications. This experience sparked a deep interest in app development, and in 2023, I decided to fully dedicate myself to studying programming, focusing on turning this passion into my professional career.
+I’m Axel, a passionate **mobile developer** in training!
 
-In addition to my formal education, I am self-learning Swift and SwiftUI to further refine my skills and specialize in developing applications for the Apple platform. I dedicate my free time to constantly improving my knowledge in this area. When I’m not programming, you’ll find me traveling, staying up way too late to finish a book that won’t let me sleep, or taking care of my two little dragons, Moon and Melo (my cats).
+I’m currently studying **Cross-Platform Application Development** at BirtLH in the Basque Country, and in my spare time, I’m diving deep into iOS development with **Swift** and **SwiftUI**. Technology has always been my passion. I worked for over four years at **Apple**, where I helped users solve software issues and learn how to use their devices. That experience sparked my interest in app development, and in 2023 I decided to fully dedicate myself to programming.
 
-I am eager to contribute to exciting projects and continue growing as a developer.
+I'm especially focused on building simple and clean apps with good UX. I’m eager to keep growing as a developer and contribute to projects that make a difference.
+
+When I’m not coding, you’ll find me:
+- ✈️ Traveling
+- 📚 Finishing a book I can’t put down
+- 🐱 Taking care of my two little dragons: **Moon** and **Melo**
+
+---
+
+### 🚀 Currently learning
+
+- Swift, SwiftUI & Firebase
+- Clean architecture (MVVM)
+- How to publish my first app to the App Store
+
+---
+
+### 📫 How to reach me
+
+You can find me on [byaxel.com](https://byaxel.com)
+
 
 <!--
 **byaxel/byaxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
