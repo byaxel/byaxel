@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="README1.png" alt="Axel's banner" style="max-width: 100%;" />
+  <img src="README.png" alt="Axel's banner" style="max-width: 100%;" />
 </p>
 
 ## Hi there 👋
