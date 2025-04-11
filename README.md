@@ -19,9 +19,10 @@ When I’m not coding, you’ll find me:
 
 ### 🚀 Currently learning
 
-- Swift, SwiftUI & Firebase
-- Clean architecture (MVVM)
-- How to publish my first app to the App Store
+- Swift & SwiftUI
+- Core Data for efficient data management
+- Clean architecture
+- Advanced app deployment strategies, including App Store submission
 
 ---
 
