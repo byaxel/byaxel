@@ -28,7 +28,7 @@ When I’m not coding, you’ll find me:
 
 ### 📫 How to reach me
 
-You can find me on [byaxel.com](https://byaxel.dev)
+You can find me on [byaxel.dev](https://byaxel.dev)
 
 
 <!--
