@@ -18,7 +18,8 @@ When I’m not coding, you’ll find me:
 ---
 
 ### 📱 My latest app
-I just launched **[Tile](https://apple.co/4fIMNHt)** on the App Store! Tile helps you **track subscriptions, organize them by category, and never miss a payment**. 
+I just launched **[Tile](https://apple.co/4fIMNHt)** on the App Store! Tile helps you **track subscriptions, organize them by category, and never miss a payment**.
+For more info, visit the [Tile website](https://tileapp.byaxel.dev).
 
 ---
 
