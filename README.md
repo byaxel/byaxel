@@ -26,7 +26,7 @@ For more info, visit the [Tile website](https://tileapp.byaxel.dev).
 ### 🚀 Currently learning
 
 - Swift & SwiftUI
-- Core Data for efficient data management
+- SwiftData for efficient data management
 - Clean architecture
 - Advanced app deployment strategies, including App Store submission
 
