@@ -12,7 +12,7 @@ I'm especially focused on building simple and clean apps with good UX. I’m eag
 
 When I’m not coding, you’ll find me:
 - ✈️ Traveling
-- 📚 Finishing a book I can’t put down
+- 📖 Finishing a book I can’t put down
 - 🐱 Taking care of my two little dragons: **Moon** and **Melo**
 
 ---
@@ -23,16 +23,7 @@ For more info, visit the [Tile website](https://tileapp.byaxel.dev).
 
 ---
 
-### 🚀 Currently learning
-
-- Swift & SwiftUI
-- SwiftData for efficient data management
-- Clean architecture
-- Advanced app deployment strategies, including App Store submission
-
----
-
-### 📫 How to reach me
+### How to reach me
 
 You can find me on [byaxel.dev](https://byaxel.dev)
 
